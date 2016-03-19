@@ -1,0 +1,28 @@
+name: dorkweb
+favicon: null
+layout_spectrum: 0.44375023315660655
+typography_spectrum: 0.6617238081526011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8010992605704814
+  lightness: 0.7703025040682405
+  saturation: 0.6246204709168524
+  rhythmicContrast: 0.08401640318334103
+purpose: []
